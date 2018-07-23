@@ -1,10 +1,10 @@
 body {
-    background: purple
+    background: darkred;
 }
 #paragraph1{
     float:left;
-color: gold;
-width:80%;
+color: blue;
+width:90%;
 
     font-family: 'Merienda', cursive;}
 
