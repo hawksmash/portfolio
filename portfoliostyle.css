@@ -1,35 +1,34 @@
 body {
     background: darkred;
 }
-#paragraph1{
-    float:left;
-color: blue;
-width:90%;
+/* TODO:  The blue on darkred background is a little hard to read...  Check the colors on contrast-ratio.com and think about choosing something different for one of them! */
+#paragraph1 {
+    float: left;
+    color: blue;
+    width: 90%;
+    font-family: 'Merienda', cursive;
+}
 
-    font-family: 'Merienda', cursive;}
-
-    
 @keyframes appear {
-0% {
-    transform: scale(0.1);
-    opacity: 0;
-}
-60% {
-    transform: scale(1.5);
-    opacity: 1;
-}
-100% {
-    transform: scale(1);
-}}
-#Hawkphoto{
-animation-name: appear;
-animation-duration: 5s;
-float:right;
+    0% {
+        transform: scale(0.1);
+        opacity: 0;
+    }
+    60% {
+        transform: scale(1.5);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+    }
 }
 
+#Hawkphoto {
+    animation-name: appear;
+    animation-duration: 5s;
+    float: right;
+}
 
-
-h1{
+h1 {
     font-family: 'Chela One', cursive;
 }
-
