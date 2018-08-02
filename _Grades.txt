@@ -1,0 +1,37 @@
+Portfolio final grade: 81
+
+Comments:  You put in a good effort on this except for the last part for mobile devices.   Pay attention to the little details, and consider asking more people to comment on the readability of your site.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 89
+(50% of overall grade)
+
+Points deducted for these items:
+    -4 Document title broken or unchanged on all pages.
+    -3 Google fonts link missing from 3 pages.
+    -3 Broken links on some pages.
+    -1 Image link in <head> section of About page.
+
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Contrast ratio between text and background colors don't meet the minimum 3.0 value, text is very hard to read. 
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 50
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media queries / Mobile responsive design not included.

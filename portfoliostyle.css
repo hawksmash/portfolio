@@ -1,12 +1,13 @@
 body {
-    background: darkred;
+    background: orange;
 }
-#paragraph1{
-    float:left;
-color: blue;
-width:70%;
 
-    font-family: 'Merienda', cursive;}
+#paragraph1 {
+    float: left;
+    color: blue;
+    width: 70%;
+    font-family: 'Merienda', cursive;
+}
 
 @keyframes appear {
     0% {
